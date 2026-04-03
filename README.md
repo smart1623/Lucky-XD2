@@ -301,7 +301,7 @@ jobs:
 # License: APACHE
 ```
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD2/stargazers"> <img src="http://reporoster.com/stars/dark/Tomilucky218/Lucky-XD2" alt="Stargazers repo roster for @Tomilucky218/Lucky-XD2"> </a> </p> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD2/network/members"> <img src="http://reporoster.com/forks/dark/Tomilucky218/Lucky-XD2" alt="Forkers repo roster for @Tomilucky218/Lucky-XD2"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD2/stargazers"> <img src="http://reporoster.com/stars/dark/Tomilucky218/Lucky-XD2" alt="Stargazers repo roster for @Tomilucky218/Lucky-XD2"> </a> </p> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD2/network/members"> <img src="http://reporoster.com/forks/dark/Tomilucky218/Lucky-XD2" alt="Forkers repo roster for @Tomilucky218/Lucky-XD2"> </a> </p>  
 
 
 
